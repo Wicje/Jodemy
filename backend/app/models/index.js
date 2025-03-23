@@ -1,6 +1,6 @@
 import dbConfig from '../config/db.config.js'; 
 import mongoose from 'mongoose';
-import jodemy from '.jodemy.model.js';
+import course from '.course.model.js';
 import Role from './role.model.js';
 import Student from './student.model.js';
 
